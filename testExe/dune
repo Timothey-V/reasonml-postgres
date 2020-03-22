@@ -1,0 +1,3 @@
+(executable (name RunReasonmlPostgresTests)
+    (public_name RunReasonmlPostgresTests.exe)
+    (libraries reasonml-postgres.test)) 
